@@ -1,4 +1,4 @@
-# Adafruit-FRAM-Breakout-PCB
+# Adafruit FRAM Breakout PCBs
 
 <a href="http://www.adafruit.com/products/1895"><img src="assets/1895.jpg?raw=true" width="400px"></a>&nbsp; <a href="http://www.adafruit.com/products/1897"><img src="assets/1897.jpg?raw=true" width="400px"></a><br />
 Click to purchase from the Adafruit Shop:
