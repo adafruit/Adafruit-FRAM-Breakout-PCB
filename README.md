@@ -4,6 +4,9 @@
 Click to purchase from the Adafruit Shop:
 - [I2C Version](https://www.adafruit.com/product/1895)
 - [SPI Version](https://www.adafruit.com/product/1897)
+- [2 Mbit SPI Version](https://www.adafruit.com/product/4718)
+- [4 Mbit SPI Version](https://www.adafruit.com/product/4719)
+
 
 FRAM, or Ferroelectric Ram, is pretty cool! It's similar to Dynamic random-access memory, only with a ferroelectric layer instead of a dielectric layer. This gives it stable handling (the bytes you write are non-volatile) with dynamic responsiveness (you can write them very fast!)
 
